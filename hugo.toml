@@ -1,6 +1,6 @@
 baseURL = 'https://unifyingphysics.github.io/'
 languageCode = 'en-us'
-title = 'Unifying Physics 2'
+title = 'Unifying Physics'
 theme = 'ananke'
 
 resourceDir = "../resources"
