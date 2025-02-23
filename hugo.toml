@@ -1,0 +1,4 @@
+baseURL = 'https://unifyingphysics.github.io/'
+languageCode = 'en-us'
+title = 'Unifying Physics'
+theme = 'ananke'
